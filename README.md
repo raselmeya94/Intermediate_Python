@@ -1,6 +1,6 @@
 ## ***Intermediate_Python programming***
 ## What is this..??
-![](https://o.remove.bg/downloads/4554e810-ef08-4fb3-a549-46edaf110094/Cartoon-green-snake-on-transparent-background-PNG-removebg-preview.png)
+![](https://image.similarpng.com/very-thumbnail/2020/11/Cartoon-green-snake-on-transparent-background-PNG.png)
 ```python
 print("Hello,I am Python. hahahhhahahha")
 ```
