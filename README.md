@@ -14,7 +14,7 @@ This repository is full of basic to intermediate python  language learning . spe
 - [Tuples](https://github.com/raselmeya94/Intermediate_Python/blob/main/tuples.py)
 - [Dictionaries](https://github.com/raselmeya94/Intermediate_Python/blob/main/Dictionaries.py)
 - [Sets](https://github.com/raselmeya94/Intermediate_Python/blob/main/Sets.py)
-- Strings
+- [Strings](https://github.com/raselmeya94/Intermediate_Python/blob/main/String.py)
 - Collections
 - Itertools
 - Lambda Functions
