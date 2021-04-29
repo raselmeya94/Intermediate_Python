@@ -15,7 +15,7 @@ This repository is full of basic to intermediate python  language learning . spe
 - [Dictionaries](https://github.com/raselmeya94/Intermediate_Python/blob/main/Dictionaries.py)
 - [Sets](https://github.com/raselmeya94/Intermediate_Python/blob/main/Sets.py)
 - [Strings](https://github.com/raselmeya94/Intermediate_Python/blob/main/String.py)
-- Collections
+- [Collections](https://github.com/raselmeya94/Intermediate_Python/blob/main/Collections.ipynb)
 - Itertools
 - Lambda Functions
 - Exceptions and Errors
